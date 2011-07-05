@@ -3,6 +3,8 @@
 # Date: 2nd July 2011
 import urllib2,sys,os
 from elementtree import ElementTree as ET
+# for python 2.5 and later comment the line above and uncomment the one below
+# from xml.etree import ElementTree as ET
 
 
 ##Variable Definitions###
